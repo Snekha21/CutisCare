@@ -17,6 +17,19 @@ Appointment and Consultation booking for dermatological infections.
 Live online chatting with dermatologists.
 ChatBot for clearing Patient Doubts who are embarrassed to talk about their symptoms.
 
+**Tech Stack:
+**
+Front-End: This refers to the user interface, the part of the application that users interact with directly. HTML, CSS, Javascript, and Bootstrap are listed as front-end technologies.
+Back-End: This is the server-side of the application that handles data processing and logic. Flask and AWS Lambda as back-end technologies.
+Database: This is where data is stored and retrieved.  Amazon S3 as the database.
+Containerization: This refers to packaging an application with all its dependencies into a container, making it easier to deploy and run the application consistently across different environments. Docker is a popular containerization technology.
+Hardware: This refers to the physical components that run the software.  GPUs, which are specialised processors suitable for certain machine learning tasks.
+
+Spatial and Temporal Analysis:
+
+Algorithms: ResNet50, VGG19, Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) Networks
+Tools/Frameworks: TensorFlow, PyTorch
+
 
 In conclusion, the fusion of wood light examination and shade finder analysis using machine learning represents a groundbreaking advancement in the field of dermatology. This innovative approach offers a transformative solution to the challenges of skin disease diagnosis, providing accurate, efficient, and patient-centered assessments. By bridging traditional diagnostic techniques with cutting-edge technology, this solution holds the potential to revolutionize dermatological practice, improve patient outcomes, and enhance the overall quality of skin care.
 
